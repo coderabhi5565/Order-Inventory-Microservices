@@ -91,3 +91,4 @@ active
 GET /api/v1/products/bulk?ids=id1,id2,id3
 
 Return minimal fields: id, sku, name, price
+finally api design done
